@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Lokzi%20%7C%20CYUT%20IM&fontSize=40&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+a+IM+Student+from+CYUT;I+love+clean+code+and+debugging+adventures;Always+chasing+the+perfect+user+experience!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+a+IM+Student+from+CYUT;I+love+clean+code+and+debugging+adventures;Always+chasing+the+perfect+user+experience!" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌱 Fun Facts
+## ⚡ Fun Facts
 
 - I spend more time reading debug logs than novels.
 - My code is so clean, you could eat hotpot off it (but please don't).
@@ -54,3 +54,7 @@
 > \"Code like nobody's watching, but debug like everyone's reading your logs.\"
 
 ---
+
+---
+
+If you like my work, feel free to ⭐️ star my repos and follow me — your support means a lot. Thank you! 🙏
